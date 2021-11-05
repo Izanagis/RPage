@@ -13,4 +13,5 @@ TAS Tool for a game called Pixel Dash
 - Email: hf8miwb9u@relay.firefox.com
 - Twitter: @srcriverside
 
+![Rivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=riversiderose&show_icons=true&theme=dark)
 
