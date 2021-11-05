@@ -9,7 +9,8 @@ TAS Tool for a game called Pixel Dash
 
 ### Contact Me
 
-Discord: River#8008
-Email:
+- Discord: River#8008
+- Email: hf8miwb9u@relay.firefox.com
+- Twitter: @srcriverside
 
 
